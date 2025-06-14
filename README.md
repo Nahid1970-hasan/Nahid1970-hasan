@@ -1,3 +1,5 @@
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/settings/profile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/nahid_cse1970)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nahid1970-hasan.github.io/Profile/)  
+
 <h1 align="center">Hi 👋, I'm Nahid Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
