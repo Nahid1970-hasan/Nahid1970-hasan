@@ -1,7 +1,5 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/settings/profile)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/nahid_cse1970)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://nahid1970-hasan.github.io/Profile/)  
-### Hi there 👋, I'm Nahid Hasan
-#### Web Developer 
-![Web Developer ](https://pbs.twimg.com/profile_banners/1933752043430424577/1749877569/1500x500)
+
 
 Motivated Web Developer seeking a
  challenging role within a forward
