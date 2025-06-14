@@ -1,5 +1,4 @@
-### Hi there 👋, I'm Nahid Hasan
-#### Web Developer 
+
 ![Web Developer ](https://pbs.twimg.com/profile_banners/1933752043430424577/1749877569/1500x500)
 
 Motivated Web Developer seeking a
